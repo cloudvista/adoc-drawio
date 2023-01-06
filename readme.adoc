@@ -1,5 +1,5 @@
 == Vista Architecture
-image::https://github.com/cloudvista/architecture/blob/main/vista.drawio.svg[vista,600,600]
+image::https://github.com/cloudvista/architecture/blob/main/vista.drawio.svg[vista,800,800]
 
 == reference
 https://www.hardhats.org  
