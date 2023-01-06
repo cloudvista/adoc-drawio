@@ -1,6 +1,6 @@
 == Vista Architecture
-image::https://github.com/cloudvista/architecture/blob/main/vista.drawio.svg[vista,50,600]
-image::https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg[Tux,50,50]
+image::https://github.com/cloudvista/architecture/blob/main/vista.drawio.svg[vista,600,600]
+image::https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg[Tux,30,30]
 
 == reference
 https://www.hardhats.org  
