@@ -1,22 +1,28 @@
-## Asciidoc Examples
+## Asciidoc and Drawio
 
-image::https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg[Tux,50,50]
+### VSCode Plugins
+* https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode
+* https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
 
-== Asciidoc manual
+
+### asciidoc reference
 * https://asciidoctor.org/docs/user-manual
-
-=== References
-* https://asciidoctor.org/news/2013/01/30/asciidoc-returns-to-github/
-* https://asciidoctor.org/docs/user-manual/#video
 * http://asciidoc.org/plugins.html
 * https://asciidoctor.org/docs/migrating-from-msword/
 * https://en.wikipedia.org/wiki/Comparison_of_documentation_generators
-* https://varnish-cache.org/docs/trunk/phk/sphinx.html
-* https://www.sphinx-doc.org/en/master/usage/installation.html#overview
-* https://coderwall.com/p/vemncg/what-is-the-difference-rest-docutils-sphinx-readthedocs
+
+### drawio reference
+* https://github.com/philip-gai/github-drawio-demo  
+* https://github.com/jgraph/drawio
+* https://markvis.js.org  
+* https://jgraph.github.io/drawio-github  
+* https://diagrams.github.io  
+
+image::https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg[Tux,25,25]
 
 
-## Asciidoc Tables Examples
+
+== Asciidoc Examples
 Reference:  https://asciidoctor.org/docs/user-manual/#tables
 
 
