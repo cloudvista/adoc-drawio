@@ -1,17 +1,17 @@
 ## Asciidoc and Drawio
 
-### VSCode Plugins
+#### VSCode Plugins
 * https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode
 * https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
 
 
-### asciidoc reference
+#### asciidoc reference
 * https://asciidoctor.org/docs/user-manual
 * http://asciidoc.org/plugins.html
 * https://asciidoctor.org/docs/migrating-from-msword/
 * https://en.wikipedia.org/wiki/Comparison_of_documentation_generators
 
-### drawio reference
+#### drawio reference
 * https://github.com/philip-gai/github-drawio-demo  
 * https://github.com/jgraph/drawio
 * https://markvis.js.org  
