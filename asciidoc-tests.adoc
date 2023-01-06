@@ -1,8 +1,9 @@
 ## Asciidoc Examples
 
-Reference:  https://asciidoctor.org/docs/user-manual/#tables
+Reference:
+* https://asciidoctor.org/docs/user-manual/#tables
 
-Manual:
+Manual
 * https://asciidoctor.org/docs/user-manual
 
 References:
