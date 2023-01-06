@@ -1,4 +1,11 @@
-# Asciidoc Examples
+## Asciidoc Examples
+
+
+# architecture
+Visual overview of Vista's architecture and components
+![](https://github.com/cloudvista/architecture/blob/main/vista.drawio.svg)
+
+
 
 == Asciidoc manual
 * https://asciidoctor.org/docs/user-manual
