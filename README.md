@@ -1,11 +1,7 @@
 # architecture
 Visual overview of Vista's architecture and components
 
-
 ![](https://github.com/cloudvista/architecture/blob/main/vista.drawio.svg)
-
-
-
 
 
 
