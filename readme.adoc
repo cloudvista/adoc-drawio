@@ -1,6 +1,5 @@
 == Vista Architecture
 image::https://github.com/cloudvista/architecture/blob/main/vista.drawio.svg[vista,600,600]
-image::https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg[Tux,30,30]
 
 == reference
 https://www.hardhats.org  
@@ -16,3 +15,5 @@ https://www.hardhats.org
 
 == asciidoc manual
 * https://asciidoctor.org/docs/user-manual
+
+image::https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg[Tux,30,30]
