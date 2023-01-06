@@ -6,3 +6,16 @@ image::https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg[Tux,50,50]
 
 == Asciidoc manual
 * https://asciidoctor.org/docs/user-manual
+
+__Reference__  
+https://www.hardhats.org  
+
+__Diagrams__  
+https://github.com/philip-gai/github-drawio-demo  
+https://github.com/jgraph/drawio
+https://markvis.js.org  
+https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams  
+https://jgraph.github.io/drawio-github  
+https://diagrams.github.io  
+https://mermaid.js.org  
+
