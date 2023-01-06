@@ -4,12 +4,6 @@ Visual overview of Vista's architecture and components
 
 ![](https://github.com/cloudvista/architecture/blob/main/vista.drawio.svg)
 
-![](https://app.diagrams.net/#Hphilip-gai/github-drawio/main/Test%20Embedding.drawio.svg)
-
-
-
-
-
 
 
 
