@@ -14,5 +14,5 @@ https://www.hardhats.org
 * https://diagrams.github.io  
 * https://mermaid.js.org  
 
-== Asciidoc manual
+== asciidoc manual
 * https://asciidoctor.org/docs/user-manual
