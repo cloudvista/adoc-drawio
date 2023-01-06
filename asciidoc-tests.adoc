@@ -1,12 +1,9 @@
 ## Asciidoc Examples
 
-Reference:
-* https://asciidoctor.org/docs/user-manual/#tables
-
-Manual
+== Asciidoc manual
 * https://asciidoctor.org/docs/user-manual
 
-References:
+=== References
 * https://asciidoctor.org/news/2013/01/30/asciidoc-returns-to-github/
 * https://asciidoctor.org/docs/user-manual/#video
 * http://asciidoc.org/plugins.html
