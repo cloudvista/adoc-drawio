@@ -4,5 +4,5 @@ Visual overview of Vista's architecture and components
 
 
 
-### Reference
+__Reference__  
 https://www.hardhats.org 
