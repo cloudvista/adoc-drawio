@@ -1,10 +1,9 @@
 ## Asciidoc Examples
 
 
-# architecture
-Visual overview of Vista's architecture and components
-![](https://github.com/cloudvista/architecture/blob/main/vista.drawio.svg)
+image::https://github.com/cloudvista/architecture/blob/main/vista.drawio.svg
 
+image::https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg[Tux,250,350]
 
 
 == Asciidoc manual
