@@ -1,4 +1,8 @@
 # architecture
-overview of the Vista architecture  
-https://www.hardhats.org is an authoritative source describing Vista's architecture
+Visual overview of Vista's architecture and components
 
+
+
+
+### Reference
+https://www.hardhats.org 
