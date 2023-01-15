@@ -1,8 +1,5 @@
 == drawio - svg example
-
-## Vista Architecture
-
-image::vista.drawio.svg[vista,400,400]
+image::vista.drawio.svg[vista,600,600]
 
 
 ## reference
