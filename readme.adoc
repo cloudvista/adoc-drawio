@@ -2,7 +2,7 @@
 
 ## Vista Architecture
 
-image::vista.drawio.svg[vista,800,800]
+image::vista.drawio.svg[vista,400,800]
 
 
 ## reference
